@@ -6,5 +6,6 @@ npm install
 npm run build
 http-server
 
-browse to http:localhost:/8080
 ```
+
+browse to http:localhost:/8080
